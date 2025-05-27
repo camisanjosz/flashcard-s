@@ -8,7 +8,7 @@
 
 
 body {
-    background: url('img/5618236.jpg');
+    background: url('img/5623515.jpg');
     font-family: "Poetsen One", sans-serif;
   font-weight: 400;
   font-style: normal;
@@ -55,6 +55,7 @@ body {
     margin-top: 1rem;
     padding: 2rem;
     margin-top:7rem;
+    font-size: 1vw;
 }
 
 .cartao__conteudo__pergunta p {
@@ -63,7 +64,8 @@ body {
 }
 
 .cartao__conteudo__resposta {
-    color: var(--card-back-color);
+    background-color:lightgreen;
+    color:black
     font-weight: 500;
 }
 
@@ -81,10 +83,11 @@ body {
 
 .cartao__conteudo__resposta {
     transform: rotateY(180deg);
+    border: 7px solid var(--card-front-color);
 }
 
 footer {
-    background-color:dodgerblue;
+    background-color:darkgreen;
     color: white;
     position: fixed;
     bottom: 0;
