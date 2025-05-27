@@ -61,3 +61,17 @@ criaCartao(
     'Quais são as 11 posições do futebol?',
     'goleiro, lateral direito, lateral esquerdo, zagueiro central, zagueiro central, volante (ou meia-defensivo), meia-central, meia-direito/ala, meia-esquerdo/ala e dois atacantes (um centroavante e um ponta).'
 )
+
+
+criaCartao(
+    'Geral',
+    'Em que ano foi realizada a primeira Copa do Mundo de futebol e em qual país?',
+    'no ano de 1930, no Uruguai'
+)
+
+
+criaCartao(
+    'Geral',
+    'Qual é o país de origem do futebol moderno?',
+    'Inglaterra.'
+)
