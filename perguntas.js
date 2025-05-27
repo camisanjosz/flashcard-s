@@ -49,3 +49,9 @@ criaCartao(
     'Quem é o jogador com mais gols em uma única edição de Copa do Mundo?',
     'Just Fontaine'
 )
+
+criaCartao(
+    'Geral',
+    'Quais são os 7 fundamentos do futebol?',
+    'passe, condução de bola, chute, drible, domínio, recepção e cabeceio.'
+)
