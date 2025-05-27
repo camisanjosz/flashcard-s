@@ -30,3 +30,16 @@ criaCartao(
     'Qual jogador venceu a bola de ouro de 2012?',
     'Lionel Messi'
 )
+
+criaCartao(
+    'Jogadores',
+    'Qual jogador venceu a bola de ouro de 1998?',
+    'Zinedine Zidane'
+)
+
+
+criaCartao(
+    'Jogadores',
+    'Quem é o jogador português conhecido como CR7?',
+    'Cristiano Ronaldo'
+)
