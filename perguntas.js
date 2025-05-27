@@ -43,3 +43,9 @@ criaCartao(
     'Quem é o jogador português conhecido como CR7?',
     'Cristiano Ronaldo'
 )
+
+criaCartao(
+    'Jogadores',
+    'Quem é o jogador com mais gols em uma única edição de Copa do Mundo?',
+    'Just Fontaine'
+)
