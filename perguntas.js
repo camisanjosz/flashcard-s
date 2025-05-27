@@ -55,3 +55,9 @@ criaCartao(
     'Quais são os 7 fundamentos do futebol?',
     'passe, condução de bola, chute, drible, domínio, recepção e cabeceio.'
 )
+
+criaCartao(
+    'Geral',
+    'Quais são as 11 posições do futebol?',
+    'goleiro, lateral direito, lateral esquerdo, zagueiro central, zagueiro central, volante (ou meia-defensivo), meia-central, meia-direito/ala, meia-esquerdo/ala e dois atacantes (um centroavante e um ponta).'
+)
